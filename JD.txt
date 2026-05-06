@@ -1,0 +1,21 @@
+We are looking for a skilled Test Automation Engineer with strong experience in Ul automation using Playwright and JavaScript, along with API automation using Rest Assured and Java. The ideal candidate will be responsible for designing, developing, and maintaining robust automated test frameworks and ensuring high-quality software delivery.
+
+Design, develop, and maintain scalable UI automation frameworks using Playwright and JavaScript
+
+Build and execute automated API test suites using Rest Assured and Java
+
+Analyze requirements and create detailed, comprehensive test plans and test cases
+
+Integrate automated tests into CI/CD pipelines for continuous testing
+
+What you will bring:
+
+Identify, document, and track defects using standard bug tracking tools
+
+Collaborate with developers, product managers, and QA team members
+
+Perform root cause analysis of defects and provide actionable insights
+
+Ensure test coverage across UI, API, and integration layers
+
+Continuously improving automation processes, tools, and host practices
